@@ -1,0 +1,7 @@
+{
+  "name": "corporateAppHector",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
